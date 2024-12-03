@@ -4,8 +4,6 @@ I'm a back-end developer of PHP, Node.js and other things.
 
 I'm currently studying a Bachelor's degree in IT.
 
-Minecraft related content: @SkyderG
-
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kadolfo9)](https://github.com/kadolfo9)
 
